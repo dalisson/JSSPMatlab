@@ -1,0 +1,1 @@
+[ makespan, sequencia, avg_fit, best_fit ] = JSSP('entrada_3.txt');
